@@ -28,7 +28,7 @@ I am a huge fan of _The Lord of the Rings_, so I decided to render Barad-dûr, t
 - __Without procedural sky, but including distance fog__
 ![](images/without_lightning.PNG)
 
-- __With procedural sky, during a lightning flash (zoomed into for better view of the Eye's fire particle effect)__
+- __With procedural sky, during a lightning flash (zoomed in for better view of the Eye's fire particle effect)__
 ![](images/with_lightning.PNG)
 
 ## Citation

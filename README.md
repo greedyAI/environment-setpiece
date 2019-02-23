@@ -33,5 +33,5 @@ I am a huge fan of _The Lord of the Rings_, so I decided to render Barad-dûr, t
 - __With procedural sky, during a lightning flash (zoomed in for better view of the Eye's fire particle effect)__
 ![](images/with_lightning.PNG)
 
-## Citation
+## Citations
 I used various primitive SDF implementations from Inigo Quilez's website [here](http://iquilezles.org/www/articles/distfunctions/distfunctions.htm). For the fire particle effect, I adapted Yuldashev Mahmud's particle effect that I found [here](http://glslsandbox.com/e#41282.0).
